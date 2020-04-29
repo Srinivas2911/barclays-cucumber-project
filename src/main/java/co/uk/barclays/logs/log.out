@@ -1,0 +1,637 @@
+2020-04-27 12:04:847 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 12:04:509 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 12:04:577 INFO  LoginPage :45 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (2f6e1544daba98a87e69a17518f494ac)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-27 12:04:757 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 12:04:233 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 12:04:547 INFO  LoginPage :60 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (356a7f73e807e21f694f31d66f396a4f)] -> id: surname0]
+2020-04-27 12:04:861 INFO  LoginPage :67 - Entering Surname  : 123456789123 on Surname Field [[ChromeDriver: chrome on WINDOWS (356a7f73e807e21f694f31d66f396a4f)] -> id: membershipNum0]
+2020-04-27 12:04:768 INFO  LoginPage :73 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (356a7f73e807e21f694f31d66f396a4f)] -> class name: btn]
+2020-04-27 12:04:827 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (356a7f73e807e21f694f31d66f396a4f)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 12:04:245 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 12:04:465 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 12:04:773 INFO  LoginPage :60 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (b32e1f9fd8dfc5ff66afe8ef7adb76d1)] -> id: surname0]
+2020-04-27 12:04:399 INFO  LoginPage :67 - Entering Surname  : 354656765654 on Surname Field [[ChromeDriver: chrome on WINDOWS (b32e1f9fd8dfc5ff66afe8ef7adb76d1)] -> id: membershipNum0]
+2020-04-27 12:04:214 INFO  LoginPage :73 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (b32e1f9fd8dfc5ff66afe8ef7adb76d1)] -> class name: btn]
+2020-04-27 12:04:522 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (b32e1f9fd8dfc5ff66afe8ef7adb76d1)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 12:04:766 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 12:04:854 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 12:04:201 INFO  LoginPage :60 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (b0fc7d58e136ff9965efc1c2809466d8)] -> id: surname0]
+2020-04-27 12:04:507 INFO  LoginPage :67 - Entering Surname  : 656576560987 on Surname Field [[ChromeDriver: chrome on WINDOWS (b0fc7d58e136ff9965efc1c2809466d8)] -> id: membershipNum0]
+2020-04-27 12:04:208 INFO  LoginPage :73 - Clicking on Register Link : [[ChromeDriver: chrome on WINDOWS (b0fc7d58e136ff9965efc1c2809466d8)] -> class name: btn]
+2020-04-27 12:04:366 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (b0fc7d58e136ff9965efc1c2809466d8)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 12:04:850 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 12:04:436 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 12:04:420 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 12:04:444 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 12:04:605 INFO  RegisterPage :28 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (5c29159f1f6c0a7b5d59afcf4ea01556)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 12:04:657 INFO  RegisterPage :41 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (5c29159f1f6c0a7b5d59afcf4ea01556)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-27 13:04:640 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 13:04:168 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 13:04:364 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (b2c538a346d54a2dee75682e66bb8448)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 13:04:425 INFO  RegisterPage :39 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (b2c538a346d54a2dee75682e66bb8448)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-27 13:04:178 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 13:04:20 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 13:04:200 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (2aee6cda45df4cbce98cfd090895ac35)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 13:04:401 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (2aee6cda45df4cbce98cfd090895ac35)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:736 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:878 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:53 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (a78d445bf62b1b6cc1ecf8b8e77712dc)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:206 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (a78d445bf62b1b6cc1ecf8b8e77712dc)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:408 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:862 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:29 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (634624ffe78c6fe3892197c10cd8fa82)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:252 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (634624ffe78c6fe3892197c10cd8fa82)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:703 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:321 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:349 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:500 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (9fbf32e3c9b5d1e0ae529eeeece0d588)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:677 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (9fbf32e3c9b5d1e0ae529eeeece0d588)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:890 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:831 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:49 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (d106b40dd712069c1e3be4a0923cde28)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:226 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (d106b40dd712069c1e3be4a0923cde28)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:904 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:915 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:537 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:687 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:868 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:440 INFO  RegisterPage :28 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:588 INFO  RegisterPage :28 - Entering Surname  : 28 on Surname Field [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:890 INFO  RegisterPage :28 - Entering Surname  : 02 on Surname Field [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:44 INFO  RegisterPage :28 - Entering Surname  : 1956 on Surname Field [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:234 INFO  RegisterPage :28 - Entering Surname  : HA6 1NW on Surname Field [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:533 INFO  RegisterPage :28 - Entering Surname  : worrow@gmail.com on Surname Field [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:741 INFO  RegisterPage :28 - Entering Surname  : worrow@gmail.com on Surname Field [[ChromeDriver: chrome on WINDOWS (7fbf124f26a40de53a070024c519d1e6)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:403 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:503 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:672 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:882 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:44 INFO  RegisterPage :28 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:246 INFO  RegisterPage :28 - Entering Surname  : 15 on Surname Field [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:407 INFO  RegisterPage :28 - Entering Surname  : 08 on Surname Field [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:668 INFO  RegisterPage :28 - Entering Surname  : 1966 on Surname Field [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:946 INFO  RegisterPage :28 - Entering Surname  : N3 1QS on Surname Field [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:218 INFO  RegisterPage :28 - Entering Surname  : johnson@boris.com on Surname Field [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:448 INFO  RegisterPage :28 - Entering Surname  : johnson@boris.com on Surname Field [[ChromeDriver: chrome on WINDOWS (2d95e44a1be3eda2cbc897edd5f130b2)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:979 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:994 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:155 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:301 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:833 INFO  RegisterPage :28 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:974 INFO  RegisterPage :28 - Entering Surname  : 08 on Surname Field [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:157 INFO  RegisterPage :28 - Entering Surname  : 12 on Surname Field [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:319 INFO  RegisterPage :28 - Entering Surname  : 1944 on Surname Field [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:490 INFO  RegisterPage :28 - Entering Surname  : UB10 8PD on Surname Field [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:696 INFO  RegisterPage :28 - Entering Surname  : morwood@yahoo.com on Surname Field [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:908 INFO  RegisterPage :28 - Entering Surname  : morwood@yahoo.com on Surname Field [[ChromeDriver: chrome on WINDOWS (ad90971727f2807a16258c60ea4f64ce)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:165 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:953 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:144 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:328 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:768 INFO  RegisterPage :28 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:885 INFO  RegisterPage :28 - Entering Surname  : 28 on Surname Field [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:983 INFO  RegisterPage :28 - Entering Surname  : 02 on Surname Field [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:75 INFO  RegisterPage :28 - Entering Surname  : 1956 on Surname Field [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:205 INFO  RegisterPage :28 - Entering Surname  : HA6 1NW on Surname Field [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:328 INFO  RegisterPage :28 - Entering Surname  : worrow@gmail.com on Surname Field [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:442 INFO  RegisterPage :28 - Entering Surname  : worrow@gmail.com on Surname Field [[ChromeDriver: chrome on WINDOWS (e3b85d278f1a85d1713064c3e9cdc78e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:196 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:250 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:428 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:591 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:338 INFO  RegisterPage :28 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:501 INFO  RegisterPage :28 - Entering Surname  : 15 on Surname Field [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:585 INFO  RegisterPage :28 - Entering Surname  : 08 on Surname Field [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:677 INFO  RegisterPage :28 - Entering Surname  : 1966 on Surname Field [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:787 INFO  RegisterPage :28 - Entering Surname  : N3 1QS on Surname Field [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:927 INFO  RegisterPage :28 - Entering Surname  : johnson@boris.com on Surname Field [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:76 INFO  RegisterPage :28 - Entering Surname  : johnson@boris.com on Surname Field [[ChromeDriver: chrome on WINDOWS (d7de517c21cc8882916f55745f4f5c4e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:877 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:768 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:51 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:189 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:702 INFO  RegisterPage :28 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:806 INFO  RegisterPage :28 - Entering Surname  : 08 on Surname Field [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:892 INFO  RegisterPage :28 - Entering Surname  : 12 on Surname Field [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:59 INFO  RegisterPage :28 - Entering Surname  : 1944 on Surname Field [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:277 INFO  RegisterPage :28 - Entering Surname  : UB10 8PD on Surname Field [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:468 INFO  RegisterPage :28 - Entering Surname  : morwood@yahoo.com on Surname Field [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:599 INFO  RegisterPage :28 - Entering Surname  : morwood@yahoo.com on Surname Field [[ChromeDriver: chrome on WINDOWS (79f8637ceb7eee89aca72623ba6e4c29)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:846 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:12 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:215 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (dcf5ada11cdf01cb9671fe9d9633da4c)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:382 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (dcf5ada11cdf01cb9671fe9d9633da4c)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:616 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:724 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:868 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (4de263c8e51a1305871b7cac90a25834)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:18 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (4de263c8e51a1305871b7cac90a25834)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:32 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:180 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:372 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (b02a78e55afbcb32c22d9f81a7a3215e)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:542 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (b02a78e55afbcb32c22d9f81a7a3215e)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:294 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:07 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:180 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:358 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:835 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:938 INFO  RegisterPage :30 - Entering Surname  : 28 on Surname Field [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:30 INFO  RegisterPage :30 - Entering Surname  : 02 on Surname Field [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:121 INFO  RegisterPage :30 - Entering Surname  : 1956 on Surname Field [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:266 INFO  RegisterPage :30 - Entering Surname  : HA6 1NW on Surname Field [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:436 INFO  RegisterPage :30 - Entering Surname  : worrow@gmail.com on Surname Field [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:617 INFO  RegisterPage :30 - Entering Surname  : worrow@gmail.com on Surname Field [[ChromeDriver: chrome on WINDOWS (c4715abcc02f7277efa1e74093bf7bb1)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:942 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:809 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:542 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:684 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:860 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:269 INFO  RegisterPage :30 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:448 INFO  RegisterPage :30 - Entering Surname  : 08 on Surname Field [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:636 INFO  RegisterPage :30 - Entering Surname  : 12 on Surname Field [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:735 INFO  RegisterPage :30 - Entering Surname  : 1944 on Surname Field [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:913 INFO  RegisterPage :30 - Entering Surname  : UB10 8PD on Surname Field [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:75 INFO  RegisterPage :30 - Entering Surname  : morwood@yahoo.com on Surname Field [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:214 INFO  RegisterPage :30 - Entering Surname  : morwood@yahoo.com on Surname Field [[ChromeDriver: chrome on WINDOWS (e6e1cd8a6b0072b371a91f0f09f24c4c)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:133 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:934 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:94 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:279 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:944 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:328 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> id: dateOfBirth0]
+2020-04-27 14:04:440 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> id: dateOfBirth1]
+2020-04-27 14:04:566 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> id: dateOfBirth2]
+2020-04-27 14:04:917 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> id: postcode]
+2020-04-27 14:04:209 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:449 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (2f2150169d5e9843b0ef8949102355af)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:733 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:867 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:27 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:168 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:645 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:06 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> id: dateOfBirth0]
+2020-04-27 14:04:115 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> id: dateOfBirth1]
+2020-04-27 14:04:247 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> id: dateOfBirth2]
+2020-04-27 14:04:602 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> id: postcode]
+2020-04-27 14:04:886 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:137 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (50da33c3bb9e286ead2e4ef53af664b0)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:311 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:643 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:818 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:03 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:471 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:794 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> id: dateOfBirth0]
+2020-04-27 14:04:914 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> id: dateOfBirth1]
+2020-04-27 14:04:41 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> id: dateOfBirth2]
+2020-04-27 14:04:336 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> id: postcode]
+2020-04-27 14:04:588 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:818 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:08 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:43 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (9a3edf96e1800b25e5543ff578191713)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:190 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:532 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:700 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:910 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:677 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:313 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> id: dateOfBirth0]
+2020-04-27 14:04:464 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> id: dateOfBirth1]
+2020-04-27 14:04:742 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> id: dateOfBirth2]
+2020-04-27 14:04:79 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> id: postcode]
+2020-04-27 14:04:574 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:947 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:93 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:196 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (6ffba9aa5eb97f8975dddbbb58f05c0a)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:659 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:310 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:486 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:627 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:106 INFO  RegisterPage :30 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:383 INFO  RegisterPage :41 - Entering date  : 08 on Date Field [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> id: dateOfBirth0]
+2020-04-27 14:04:520 INFO  RegisterPage :51 - Entering month  : 12 on Month Field [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> id: dateOfBirth1]
+2020-04-27 14:04:678 INFO  RegisterPage :61 - Entering year  : 1944 on Year Field [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> id: dateOfBirth2]
+2020-04-27 14:04:159 INFO  RegisterPage :72 - Entering postcode  : UB10 8PD on Postcode Field [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> id: postcode]
+2020-04-27 14:04:522 INFO  RegisterPage :82 - Entering postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:813 INFO  RegisterPage :91 - Confirm postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:987 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:92 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (fa3080cca631b6d6d4890c3a4de368e8)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:578 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:862 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:12 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:193 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:671 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:14 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> id: dateOfBirth0]
+2020-04-27 14:04:137 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> id: dateOfBirth1]
+2020-04-27 14:04:262 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> id: dateOfBirth2]
+2020-04-27 14:04:663 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> id: postcode]
+2020-04-27 14:04:980 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:214 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:423 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:461 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (4b80f0e69651c4bce29d76be3d51d19e)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:151 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:503 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:751 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:942 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:360 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:697 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> id: dateOfBirth0]
+2020-04-27 14:04:806 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> id: dateOfBirth1]
+2020-04-27 14:04:936 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> id: dateOfBirth2]
+2020-04-27 14:04:246 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> id: postcode]
+2020-04-27 14:04:482 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:782 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:934 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:20 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (d643b02f4142a04e1931953d44284cd5)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:602 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:662 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:50 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:269 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:423 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:370 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:733 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> id: dateOfBirth0]
+2020-04-27 14:04:847 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> id: dateOfBirth1]
+2020-04-27 14:04:01 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> id: dateOfBirth2]
+2020-04-27 14:04:615 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> id: postcode]
+2020-04-27 14:04:978 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:243 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:449 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:485 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (f6103658975bb7b01235c9b31a4d8c5c)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:634 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:152 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:325 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:470 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:925 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:276 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> id: dateOfBirth0]
+2020-04-27 14:04:402 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> id: dateOfBirth1]
+2020-04-27 14:04:530 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> id: dateOfBirth2]
+2020-04-27 14:04:862 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> id: postcode]
+2020-04-27 14:04:126 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:403 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:536 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:649 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (e76570342acc8cf2e8a2e57daeee108f)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:912 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:222 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:451 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:678 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:134 INFO  RegisterPage :30 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:973 INFO  RegisterPage :41 - Entering date  : 08 on Date Field [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> id: dateOfBirth0]
+2020-04-27 14:04:93 INFO  RegisterPage :51 - Entering month  : 12 on Month Field [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> id: dateOfBirth1]
+2020-04-27 14:04:230 INFO  RegisterPage :61 - Entering year  : 1944 on Year Field [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> id: dateOfBirth2]
+2020-04-27 14:04:555 INFO  RegisterPage :72 - Entering postcode  : UB10 8PD on Postcode Field [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> id: postcode]
+2020-04-27 14:04:784 INFO  RegisterPage :82 - Entering postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:43 INFO  RegisterPage :91 - Confirm postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:199 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:312 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (e66265f95ae2414f7ecf5694a244e1b5)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:336 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:49 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:204 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:367 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:854 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:204 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> id: dateOfBirth0]
+2020-04-27 14:04:322 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> id: dateOfBirth1]
+2020-04-27 14:04:455 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> id: dateOfBirth2]
+2020-04-27 14:04:772 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> id: postcode]
+2020-04-27 14:04:107 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:335 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:538 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:587 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (57d693637c7a65722af59a828ddd8e18)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:665 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:851 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:29 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:192 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:699 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:25 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> id: dateOfBirth0]
+2020-04-27 14:04:142 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> id: dateOfBirth1]
+2020-04-27 14:04:251 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> id: dateOfBirth2]
+2020-04-27 14:04:616 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> id: postcode]
+2020-04-27 14:04:856 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:81 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:207 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:302 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (cec61d37fe2e90feb792840ada783b11)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:392 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:258 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:139 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:363 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:514 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:41 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:386 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> id: dateOfBirth0]
+2020-04-27 14:04:522 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> id: dateOfBirth1]
+2020-04-27 14:04:652 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> id: dateOfBirth2]
+2020-04-27 14:04:34 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> id: postcode]
+2020-04-27 14:04:381 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:779 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:919 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:69 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (9b0c507ea3f8dec972242f04386daf21)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:62 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:09 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:181 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:337 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:847 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:213 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> id: dateOfBirth0]
+2020-04-27 14:04:364 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> id: dateOfBirth1]
+2020-04-27 14:04:518 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> id: dateOfBirth2]
+2020-04-27 14:04:897 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> id: postcode]
+2020-04-27 14:04:295 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:536 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:704 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:745 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (dd62e67e94e4ed544c56c943dd2efb85)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:654 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:950 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:785 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:967 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:159 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:615 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:918 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> id: dateOfBirth0]
+2020-04-27 14:04:47 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> id: dateOfBirth1]
+2020-04-27 14:04:199 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> id: dateOfBirth2]
+2020-04-27 14:04:504 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> id: postcode]
+2020-04-27 14:04:808 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:82 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:249 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:518 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (a1a72b9bcf5163b0ec0b8f4b777c8eb7)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:432 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:998 INFO  HomePage :35 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (f8b338afca00b69dcf1245378116d24b)] -> link text: Register]
+2020-04-27 14:04:697 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:374 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:520 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:693 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:194 INFO  RegisterPage :30 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:508 INFO  RegisterPage :41 - Entering date  : 08 on Date Field [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> id: dateOfBirth0]
+2020-04-27 14:04:641 INFO  RegisterPage :51 - Entering month  : 12 on Month Field [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> id: dateOfBirth1]
+2020-04-27 14:04:763 INFO  RegisterPage :61 - Entering year  : 1944 on Year Field [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> id: dateOfBirth2]
+2020-04-27 14:04:79 INFO  RegisterPage :72 - Entering postcode  : UB10 8PD on Postcode Field [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> id: postcode]
+2020-04-27 14:04:365 INFO  RegisterPage :82 - Entering postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:660 INFO  RegisterPage :91 - Confirm postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:811 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:982 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (ef21feb797438c15d55c23cf57e53492)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:507 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:911 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:63 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (42b882e6b79041f3185cf803e0da33e0)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:112 INFO  RegisterPage :39 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (42b882e6b79041f3185cf803e0da33e0)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-27 14:04:377 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:457 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:597 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:763 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:165 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:540 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> id: dateOfBirth0]
+2020-04-27 14:04:665 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> id: dateOfBirth1]
+2020-04-27 14:04:803 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> id: dateOfBirth2]
+2020-04-27 14:04:126 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> id: postcode]
+2020-04-27 14:04:369 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:597 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:792 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:899 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (953c37f87f85bd2a65035c3157461e1a)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:966 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:24 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:222 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:434 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:906 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:210 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> id: dateOfBirth0]
+2020-04-27 14:04:322 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> id: dateOfBirth1]
+2020-04-27 14:04:451 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> id: dateOfBirth2]
+2020-04-27 14:04:784 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> id: postcode]
+2020-04-27 14:04:108 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:409 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:595 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:642 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (fa4411db59fe25673d799fffaaff7a21)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 14:04:861 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 14:04:184 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 14:04:323 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 14:04:472 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:110 INFO  RegisterPage :30 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> xpath: //input[@name='surname']]
+2020-04-27 14:04:399 INFO  RegisterPage :41 - Entering date  : 08 on Date Field [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> id: dateOfBirth0]
+2020-04-27 14:04:548 INFO  RegisterPage :51 - Entering month  : 12 on Month Field [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> id: dateOfBirth1]
+2020-04-27 14:04:673 INFO  RegisterPage :61 - Entering year  : 1944 on Year Field [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> id: dateOfBirth2]
+2020-04-27 14:04:32 INFO  RegisterPage :72 - Entering postcode  : UB10 8PD on Postcode Field [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> id: postcode]
+2020-04-27 14:04:419 INFO  RegisterPage :82 - Entering postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> xpath: //input[@name='email']]
+2020-04-27 14:04:667 INFO  RegisterPage :91 - Confirm postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 14:04:883 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 14:04:926 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (ebb410bd0e2e113977bfb5d1745a2034)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:883 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:393 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:563 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:747 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:201 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:556 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> id: dateOfBirth0]
+2020-04-27 15:04:685 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> id: dateOfBirth1]
+2020-04-27 15:04:830 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> id: dateOfBirth2]
+2020-04-27 15:04:180 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> id: postcode]
+2020-04-27 15:04:435 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:675 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:868 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:918 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (302e8a5488c77b808c657ad2baa69ef6)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:05 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:419 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:570 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:731 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:186 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:545 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> id: dateOfBirth0]
+2020-04-27 15:04:665 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> id: dateOfBirth1]
+2020-04-27 15:04:784 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> id: dateOfBirth2]
+2020-04-27 15:04:150 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> id: postcode]
+2020-04-27 15:04:534 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:787 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:974 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:17 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (e8d5ce45d2d80f498e90838690d8f24c)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:177 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:88 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:236 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:381 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:83 INFO  RegisterPage :30 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:380 INFO  RegisterPage :41 - Entering date  : 08 on Date Field [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> id: dateOfBirth0]
+2020-04-27 15:04:495 INFO  RegisterPage :51 - Entering month  : 12 on Month Field [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> id: dateOfBirth1]
+2020-04-27 15:04:625 INFO  RegisterPage :61 - Entering year  : 1944 on Year Field [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> id: dateOfBirth2]
+2020-04-27 15:04:982 INFO  RegisterPage :72 - Entering postcode  : UB10 8PD on Postcode Field [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> id: postcode]
+2020-04-27 15:04:343 INFO  RegisterPage :82 - Entering postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:581 INFO  RegisterPage :91 - Confirm postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:759 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:800 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (e4100365925a980d87d064b4585ddee5)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:679 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:396 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 15:04:439 INFO  LoginPage :45 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (bb5949cce76110837497854ca9dcbfdf)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-27 15:04:587 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:586 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 15:04:918 INFO  LoginPage :60 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (632aa7e89f503f31bc3f05e6dd3d52b4)] -> id: surname0]
+2020-04-27 15:04:312 INFO  LoginPage :67 - Entering Surname  : 123456789123 on Surname Field [[ChromeDriver: chrome on WINDOWS (632aa7e89f503f31bc3f05e6dd3d52b4)] -> id: membershipNum0]
+2020-04-27 15:04:04 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (632aa7e89f503f31bc3f05e6dd3d52b4)] -> class name: btn]
+2020-04-27 15:04:158 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (632aa7e89f503f31bc3f05e6dd3d52b4)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 15:04:349 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:961 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 15:04:252 INFO  LoginPage :60 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (dec261db7c57e20fca3581e9b578533b)] -> id: surname0]
+2020-04-27 15:04:537 INFO  LoginPage :67 - Entering Surname  : 354656765654 on Surname Field [[ChromeDriver: chrome on WINDOWS (dec261db7c57e20fca3581e9b578533b)] -> id: membershipNum0]
+2020-04-27 15:04:224 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (dec261db7c57e20fca3581e9b578533b)] -> class name: btn]
+2020-04-27 15:04:441 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (dec261db7c57e20fca3581e9b578533b)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 15:04:591 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:783 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 15:04:48 INFO  LoginPage :60 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (7e03c8c8329ec48ed0c902ac3ad354db)] -> id: surname0]
+2020-04-27 15:04:333 INFO  LoginPage :67 - Entering Surname  : 656576560987 on Surname Field [[ChromeDriver: chrome on WINDOWS (7e03c8c8329ec48ed0c902ac3ad354db)] -> id: membershipNum0]
+2020-04-27 15:04:987 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (7e03c8c8329ec48ed0c902ac3ad354db)] -> class name: btn]
+2020-04-27 15:04:216 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (7e03c8c8329ec48ed0c902ac3ad354db)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 15:04:419 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:356 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:522 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (6e0c787589884194c9f6a0e3afb9602c)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:584 INFO  RegisterPage :39 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (6e0c787589884194c9f6a0e3afb9602c)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-27 15:04:730 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:24 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:171 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:331 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:944 INFO  RegisterPage :30 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:305 INFO  RegisterPage :41 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> id: dateOfBirth0]
+2020-04-27 15:04:414 INFO  RegisterPage :51 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> id: dateOfBirth1]
+2020-04-27 15:04:556 INFO  RegisterPage :61 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> id: dateOfBirth2]
+2020-04-27 15:04:947 INFO  RegisterPage :72 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> id: postcode]
+2020-04-27 15:04:183 INFO  RegisterPage :82 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:416 INFO  RegisterPage :91 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:593 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:634 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (de74ab47556dcf4780fd9fd463012d19)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:768 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:523 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:712 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:910 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:332 INFO  RegisterPage :30 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:658 INFO  RegisterPage :41 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> id: dateOfBirth0]
+2020-04-27 15:04:771 INFO  RegisterPage :51 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> id: dateOfBirth1]
+2020-04-27 15:04:903 INFO  RegisterPage :61 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> id: dateOfBirth2]
+2020-04-27 15:04:246 INFO  RegisterPage :72 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> id: postcode]
+2020-04-27 15:04:496 INFO  RegisterPage :82 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:718 INFO  RegisterPage :91 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:871 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:971 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (29c35976c605fde0de10ba12c937e91d)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:107 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:493 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:673 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:801 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:369 INFO  RegisterPage :30 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:702 INFO  RegisterPage :41 - Entering date  : 08 on Date Field [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> id: dateOfBirth0]
+2020-04-27 15:04:814 INFO  RegisterPage :51 - Entering month  : 12 on Month Field [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> id: dateOfBirth1]
+2020-04-27 15:04:944 INFO  RegisterPage :61 - Entering year  : 1944 on Year Field [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> id: dateOfBirth2]
+2020-04-27 15:04:334 INFO  RegisterPage :72 - Entering postcode  : UB10 8PD on Postcode Field [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> id: postcode]
+2020-04-27 15:04:656 INFO  RegisterPage :82 - Entering postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:879 INFO  RegisterPage :91 - Confirm postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:49 INFO  RegisterPage :109 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:98 INFO  RegisterPage :117 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (a241f6bf49374f57e0be09ba5785b638)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:780 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:610 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 15:04:665 INFO  LoginPage :45 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (4f97efc80e119904e4e5b1188eca3a86)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-27 15:04:479 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:155 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 15:04:443 INFO  LoginPage :60 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (b904e58c15f71ff22033e9c26c16f53c)] -> id: surname0]
+2020-04-27 15:04:719 INFO  LoginPage :67 - Entering Surname  : 123456789123 on Surname Field [[ChromeDriver: chrome on WINDOWS (b904e58c15f71ff22033e9c26c16f53c)] -> id: membershipNum0]
+2020-04-27 15:04:394 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (b904e58c15f71ff22033e9c26c16f53c)] -> class name: btn]
+2020-04-27 15:04:536 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (b904e58c15f71ff22033e9c26c16f53c)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 15:04:610 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:448 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 15:04:697 INFO  LoginPage :60 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (948e8ea58be83c77422fcedf8a8d93d1)] -> id: surname0]
+2020-04-27 15:04:977 INFO  LoginPage :67 - Entering Surname  : 354656765654 on Surname Field [[ChromeDriver: chrome on WINDOWS (948e8ea58be83c77422fcedf8a8d93d1)] -> id: membershipNum0]
+2020-04-27 15:04:643 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (948e8ea58be83c77422fcedf8a8d93d1)] -> class name: btn]
+2020-04-27 15:04:814 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (948e8ea58be83c77422fcedf8a8d93d1)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 15:04:985 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:950 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-27 15:04:201 INFO  LoginPage :60 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (f960bd00103c2e25fc94c1cb0bd7faba)] -> id: surname0]
+2020-04-27 15:04:506 INFO  LoginPage :67 - Entering Surname  : 656576560987 on Surname Field [[ChromeDriver: chrome on WINDOWS (f960bd00103c2e25fc94c1cb0bd7faba)] -> id: membershipNum0]
+2020-04-27 15:04:192 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (f960bd00103c2e25fc94c1cb0bd7faba)] -> class name: btn]
+2020-04-27 15:04:374 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (f960bd00103c2e25fc94c1cb0bd7faba)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-27 15:04:605 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:283 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:444 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (f8e1c39d67adc80d785e813bb2296821)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:483 INFO  RegisterPage :39 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (f8e1c39d67adc80d785e813bb2296821)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-27 15:04:658 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:511 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:699 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:863 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:276 INFO  RegisterPage :29 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:468 INFO  RegisterPage :39 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> id: dateOfBirth0]
+2020-04-27 15:04:599 INFO  RegisterPage :48 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> id: dateOfBirth1]
+2020-04-27 15:04:776 INFO  RegisterPage :57 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> id: dateOfBirth2]
+2020-04-27 15:04:963 INFO  RegisterPage :67 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> id: postcode]
+2020-04-27 15:04:206 INFO  RegisterPage :77 - Entering postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:426 INFO  RegisterPage :86 - Confirm postcode  : worrow@gmail.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:610 INFO  RegisterPage :95 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:672 INFO  RegisterPage :103 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (3e4ef818334404d5787dc722e67fba4f)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:827 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:794 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:979 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:144 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:589 INFO  RegisterPage :29 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:762 INFO  RegisterPage :39 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> id: dateOfBirth0]
+2020-04-27 15:04:878 INFO  RegisterPage :48 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> id: dateOfBirth1]
+2020-04-27 15:04:17 INFO  RegisterPage :57 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> id: dateOfBirth2]
+2020-04-27 15:04:181 INFO  RegisterPage :67 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> id: postcode]
+2020-04-27 15:04:427 INFO  RegisterPage :77 - Entering postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:682 INFO  RegisterPage :86 - Confirm postcode  : johnson@boris.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:889 INFO  RegisterPage :95 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:955 INFO  RegisterPage :103 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (4b4550ac74fd20525ceef7917b90d0c4)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-27 15:04:979 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-27 15:04:653 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-27 15:04:806 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-27 15:04:993 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:468 INFO  RegisterPage :29 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> xpath: //input[@name='surname']]
+2020-04-27 15:04:628 INFO  RegisterPage :39 - Entering date  : 08 on Date Field [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> id: dateOfBirth0]
+2020-04-27 15:04:741 INFO  RegisterPage :48 - Entering month  : 12 on Month Field [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> id: dateOfBirth1]
+2020-04-27 15:04:870 INFO  RegisterPage :57 - Entering year  : 1944 on Year Field [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> id: dateOfBirth2]
+2020-04-27 15:04:81 INFO  RegisterPage :67 - Entering postcode  : UB10 8PD on Postcode Field [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> id: postcode]
+2020-04-27 15:04:413 INFO  RegisterPage :77 - Entering postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> xpath: //input[@name='email']]
+2020-04-27 15:04:669 INFO  RegisterPage :86 - Confirm postcode  : morwood@yahoo.com on Postcode Field [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> xpath: //input[@name='confirmEmail']]
+2020-04-27 15:04:880 INFO  RegisterPage :95 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-27 15:04:924 INFO  RegisterPage :103 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (768a061060fd1a352bc4ce8e3c7f45bb)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-29 00:04:94 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-29 00:04:723 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-29 00:04:830 INFO  LoginPage :45 - Displaying Login Page Text : [[ChromeDriver: chrome on WINDOWS (e5df4538cba4685dd94f3da710ef296b)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-29 00:04:556 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-29 00:04:71 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-29 00:04:471 INFO  LoginPage :60 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (9e69b54d1229c3e5d9a90cf3dcb0826e)] -> id: surname0]
+2020-04-29 00:04:877 INFO  LoginPage :67 - Entering Surname  : 123456789123 on Surname Field [[ChromeDriver: chrome on WINDOWS (9e69b54d1229c3e5d9a90cf3dcb0826e)] -> id: membershipNum0]
+2020-04-29 00:04:672 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (9e69b54d1229c3e5d9a90cf3dcb0826e)] -> class name: btn]
+2020-04-29 00:04:831 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (9e69b54d1229c3e5d9a90cf3dcb0826e)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-29 00:04:512 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-29 00:04:297 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-29 00:04:634 INFO  LoginPage :60 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (1736a44346738d5b0eb7cd43663f4c78)] -> id: surname0]
+2020-04-29 00:04:02 INFO  LoginPage :67 - Entering Surname  : 354656765654 on Surname Field [[ChromeDriver: chrome on WINDOWS (1736a44346738d5b0eb7cd43663f4c78)] -> id: membershipNum0]
+2020-04-29 00:04:741 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (1736a44346738d5b0eb7cd43663f4c78)] -> class name: btn]
+2020-04-29 00:04:949 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (1736a44346738d5b0eb7cd43663f4c78)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-29 00:04:474 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-29 00:04:815 INFO  HomePage :29 - Clicking on Login link : Proxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-29 00:04:160 INFO  LoginPage :60 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (10840f7cc9ec132b872ea5c57b2f09eb)] -> id: surname0]
+2020-04-29 00:04:675 INFO  LoginPage :67 - Entering Surname  : 656576560987 on Surname Field [[ChromeDriver: chrome on WINDOWS (10840f7cc9ec132b872ea5c57b2f09eb)] -> id: membershipNum0]
+2020-04-29 00:04:589 INFO  LoginPage :73 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (10840f7cc9ec132b872ea5c57b2f09eb)] -> class name: btn]
+2020-04-29 00:04:656 INFO  LoginPage :78 - Getting Membership Error Message : [[ChromeDriver: chrome on WINDOWS (10840f7cc9ec132b872ea5c57b2f09eb)] -> xpath: //div[contains(text(),"Sorry, we can't log you in to Online Banking becau")]]
+2020-04-29 00:04:59 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-29 00:04:166 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-29 00:04:352 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (cc4173c69bb09a4b571f90617993a9a9)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-29 00:04:416 INFO  RegisterPage :39 - Displaying Register Page Text : [[ChromeDriver: chrome on WINDOWS (cc4173c69bb09a4b571f90617993a9a9)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-29 00:04:898 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-29 00:04:641 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-29 00:04:795 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-29 00:04:00 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-29 00:04:561 INFO  RegisterPage :28 - Entering Surname  : Worrow on Surname Field [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> xpath: //input[@name='surname']]
+2020-04-29 00:04:785 INFO  RegisterPage :38 - Entering date  : 28 on Date Field [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> id: dateOfBirth0]
+2020-04-29 00:04:929 INFO  RegisterPage :47 - Entering month  : 02 on Month Field [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> id: dateOfBirth1]
+2020-04-29 00:04:113 INFO  RegisterPage :56 - Entering year  : 1956 on Year Field [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> id: dateOfBirth2]
+2020-04-29 00:04:362 INFO  RegisterPage :66 - Entering postcode  : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> id: postcode]
+2020-04-29 00:04:814 INFO  RegisterPage :76 - Entering email  : worrow@gmail.com on Email Field [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> xpath: //input[@name='email']]
+2020-04-29 00:04:105 INFO  RegisterPage :85 - Confirming email  : worrow@gmail.com on Confirm Email Field [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> xpath: //input[@name='confirmEmail']]
+2020-04-29 00:04:353 INFO  RegisterPage :94 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-29 00:04:397 INFO  RegisterPage :102 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (4f530ddcf9bd41254e4f59714d094227)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-29 00:04:772 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-29 00:04:513 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-29 00:04:726 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-29 00:04:934 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-29 00:04:581 INFO  RegisterPage :28 - Entering Surname  : Johnson on Surname Field [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> xpath: //input[@name='surname']]
+2020-04-29 00:04:801 INFO  RegisterPage :38 - Entering date  : 15 on Date Field [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> id: dateOfBirth0]
+2020-04-29 00:04:953 INFO  RegisterPage :47 - Entering month  : 08 on Month Field [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> id: dateOfBirth1]
+2020-04-29 00:04:126 INFO  RegisterPage :56 - Entering year  : 1966 on Year Field [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> id: dateOfBirth2]
+2020-04-29 00:04:463 INFO  RegisterPage :66 - Entering postcode  : N3 1QS on Postcode Field [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> id: postcode]
+2020-04-29 00:04:991 INFO  RegisterPage :76 - Entering email  : johnson@boris.com on Email Field [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> xpath: //input[@name='email']]
+2020-04-29 00:04:392 INFO  RegisterPage :85 - Confirming email  : johnson@boris.com on Confirm Email Field [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> xpath: //input[@name='confirmEmail']]
+2020-04-29 00:04:618 INFO  RegisterPage :94 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-29 00:04:770 INFO  RegisterPage :102 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (895f99bb2c88236994c06431eb5710ee)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
+2020-04-29 00:04:495 INFO  BrowserSelector :22 - Launching Chrome Browser
+2020-04-29 00:04:706 INFO  HomePage :35 - Clicking on Register link : Proxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-29 00:04:902 INFO  RegisterPage :46 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> xpath: //div[@class='col-xs-12 accptclose-btn-main pull-right hidden-xs']//button[@class='btn btn-secondary btn-width-xs'][contains(text(),'Accept and close')]]
+2020-04-29 00:04:111 INFO  RegisterPage :52 - Clicking on Accept and Close Button : [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-29 00:04:733 INFO  RegisterPage :28 - Entering Surname  : Morwood on Surname Field [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> xpath: //input[@name='surname']]
+2020-04-29 00:04:940 INFO  RegisterPage :38 - Entering date  : 08 on Date Field [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> id: dateOfBirth0]
+2020-04-29 00:04:65 INFO  RegisterPage :47 - Entering month  : 12 on Month Field [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> id: dateOfBirth1]
+2020-04-29 00:04:217 INFO  RegisterPage :56 - Entering year  : 1944 on Year Field [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> id: dateOfBirth2]
+2020-04-29 00:04:486 INFO  RegisterPage :66 - Entering postcode  : UB10 8PD on Postcode Field [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> id: postcode]
+2020-04-29 00:04:998 INFO  RegisterPage :76 - Entering email  : morwood@yahoo.com on Email Field [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> xpath: //input[@name='email']]
+2020-04-29 00:04:294 INFO  RegisterPage :85 - Confirming email  : morwood@yahoo.com on Confirm Email Field [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> xpath: //input[@name='confirmEmail']]
+2020-04-29 00:04:467 INFO  RegisterPage :94 - Clicking on Next Step Button : [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> xpath: //button[@class='btn btn-primary pull-right margin-bottom-40px btn-width']]
+2020-04-29 00:04:581 INFO  RegisterPage :102 - Displaying Registration Alert Message [[ChromeDriver: chrome on WINDOWS (8d83f0835b3ecc9a648496cb922ce366)] -> xpath: //p[@class='alert-heading error-heading ng-binding']]
